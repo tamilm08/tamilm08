@@ -20,6 +20,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tamilm08&show_icons=true&locale=en&layout=compact" alt="tamilm08" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamilm08&show_icons=true&locale=en" alt="tamilm08" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tamilm08&" alt="tamilm08" /></p>
