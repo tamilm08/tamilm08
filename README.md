@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tamilselvan</h1><h2> an enthusiastic developer passionate about creating web applications and exploring new technologies. Welcome to my GitHub profile!
-</h2>
+<h1 align="center">Hi 👋, I'm Tamilselvan</h1><h4> an enthusiastic developer passionate about creating web applications and exploring new technologies. Welcome to my GitHub profile!
+</h4>
 <h3 align="center">A passionate frontend developer</h3>
 <h4>I am a self-taught developer with a keen interest in web development and design. Currently, I am based online and continually working on improving my skills in HTML, CSS, and JavaScript. I love building projects that solve real-world problems.</h4?
 
