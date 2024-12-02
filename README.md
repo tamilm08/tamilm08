@@ -1,14 +1,7 @@
-<h1 align="center">Hi 👋, I'm Tamilselvan</h1>
+<h1 align="center">Hi 👋, I'm Tamilselvan</h1><h2> an enthusiastic developer passionate about creating web applications and exploring new technologies. Welcome to my GitHub profile!
+</h2>
 <h3 align="center">A passionate frontend developer</h3>
-
-
-- 🌱 I’m currently learning **React.js,Django**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **tsm3619@gmail.com**
-
-- ⚡ Fun fact **I am creative and Hyber Student**
+<h4>I am a self-taught developer with a keen interest in web development and design. Currently, I am based online and continually working on improving my skills in HTML, CSS, and JavaScript. I love building projects that solve real-world problems.</h4?
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
